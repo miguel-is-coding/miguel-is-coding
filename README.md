@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://www.codewars.com/users/B4rb4Q/badges/small/>
 <!--
 **miguel-is-coding/miguel-is-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,8 +1,12 @@
-### Hi there 👋
-<img src="https://www.codewars.com/users/B4rb4Q/badges/small" />
+# Hello there 👋 mi nombre es Miguel
+### Desarrollador backend
+![https://github.com/miguel-is-coding](https://raw.githubusercontent.com/miguel-is-coding/miguel-is-coding/main/miguel_is_coding(3).png)
+![Codewars Rank](https://www.codewars.com/users/B4rb4Q/badges/micro)
+![Twitter Follow](https://img.shields.io/twitter/follow/miguel_isCoding?label=S%C3%ADgueme%20en%20%40miguel_isCoding&style=social)
+
 <!--
 **miguel-is-coding/miguel-is-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://img.shields.io/twitter/follow/miguel_isCoding?label=S%C3%ADgueme%20en%20%40miguel_isCoding&style=social
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

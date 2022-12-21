@@ -3,9 +3,9 @@
 
 <p align="center">
   <img src="https://www.codewars.com/users/B4rb4Q/badges/micro" alt="codewars profile">
-  <a href="https://twitter.com/intent/follow?screen_name=miguel_isCoding&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/miguel_isCoding?label=S%C3%ADgueme%20en%20%40miguel_isCoding&color=blue&logoColor=blue&style=flat-square"></a>
-  <a href="https://twitch.tv/miguel_is_coding"><img src="https://img.shields.io/twitch/status/miguel_is_coding?color=purple&label=Twitch&style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/dev-miguelangel/"><img src="https://img.shields.io/badge/-LinkedIn-LinkedIn?color=informational&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-miguelangel"/></a>
+  <a href="https://twitter.com/intent/follow?screen_name=miguel_isCoding&tw_p=followbutton" target="_blank"><img src="https://img.shields.io/twitter/follow/miguel_isCoding?label=S%C3%ADgueme%20en%20%40miguel_isCoding&color=blue&logoColor=blue&style=flat-square" alt="twitter profile"></a>
+  <a href="https://twitch.tv/miguel_is_coding" target="_blank"><img src="https://img.shields.io/twitch/status/miguel_is_coding?color=purple&label=Twitch&style=flat-square" alt="twitch profile"></a>
+  <a href="https://www.linkedin.com/in/dev-miguelangel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-LinkedIn?color=informational&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-miguelangel" alt="linkedin profile"/></a>
 </p>
 
 ---

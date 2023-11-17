@@ -21,9 +21,9 @@ Es por ello que actualmente estoy colaborando en crear la **Comunidad de desarro
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/miguel-is-coding/miguel-is-coding/main/man_desk_at_night.gif" width="320" height="500" />
 
 - 😄 He/him.
-- 🌱 Aprendiendo: TDD Testing with PEST in Laravel.
+- 🌱 Aprendiendo: De todo un poco!
 - 👯 Dispuesto a colaborar en open source!
-- 💬 Pregúntame sobre: Laravel, PHP, OOP, arquitecturas o desarrollo personal.
+- 💬 Pregúntame sobre: OOP, arquitecturas o desarrollo personal.
 - 😻 Cat lover.
 - 👾 Gamer.
 
